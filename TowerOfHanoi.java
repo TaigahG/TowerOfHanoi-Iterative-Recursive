@@ -60,14 +60,9 @@ public static void movement(Stack<Integer> sourceStack, Stack<Integer> destinati
 
 
 
-    // Push the initial state of the problem onto the stacks
 
 
 }
-
-    public static void printer(char s, char d, int disks){
-    System.out.println("Move the disk " + disks + " from " + s + " to " + d);
-    }
 
 
 
